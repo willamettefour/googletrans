@@ -138,7 +138,7 @@ LANGUAGES = {
     'kn': 'kannada',
     'kk': 'kazakh',
     'km': 'khmer',
-    "kw': 'kinyarwanda',
+    'kw': 'kinyarwanda',
     'ko': 'korean',
     'ku': 'kurdish (kurmanji)',
     'ky': 'kyrgyz',
