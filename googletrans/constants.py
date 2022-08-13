@@ -147,7 +147,7 @@ LANGUAGES = {
     'lv': 'latvian',
     'ln': 'lingala',
     'lt': 'lithuanian',
-    'lg': 'luganda'
+    'lg': 'luganda',
     'lb': 'luxembourgish',
     'mk': 'macedonian',
     'mg': 'malagasy',
